@@ -4,7 +4,7 @@
 
 theme = "congo"
 
-baseURL = ""
+baseURL = "angelebossuat.github.io"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
